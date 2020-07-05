@@ -9,6 +9,11 @@
 - 作者：陈剑煜（煎鱼），GitHub：[@eddycjy](https://github.com/eddycjy)，微信公众号：脑子进煎鱼了。
 - 作者：徐新华（polaris），GitHub：[@polaris](https://github.com/polaris1119)，微信公众号：Go语言中文网。
 
+## 购买链接
+
+- 京东：https://item.jd.com/12685249.html
+- 当当：http://product.dangdang.com/28982027.html
+
 ## 本书内容
 
 本书针对常见的项目类型，主要细分为 5 + 1 板块，分别是命令行、HTTP、RPC、Websocket 应用、进程内缓存以及 Go 中的大杀器。
