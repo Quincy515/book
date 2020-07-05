@@ -20,6 +20,8 @@
 
 ### 问题
 
+- [提交问题](https://github.com/go-programming-tour-book/book/issues/new)
+
 ### 交流
 
 ![image](https://image.eddycjy.com/5477850f13e9b404491f379102dafb60.jpg)
