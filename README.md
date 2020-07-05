@@ -103,7 +103,7 @@
 
 ## 致谢
 
-感谢徐新华（polaris1119）和在 Go 语言社区中的爱好者们，如果没有你们的鼓励，这本书不可能出版。最后感谢为本书牺牲了大量业余时间进行 Review 的朋友们：
+感谢[徐新华（polaris）](https://github.com/polaris1119)和在 Go 语言社区中的爱好者们，如果没有你们的鼓励，这本书不可能出版。最后感谢为本书牺牲了大量业余时间进行 Review 的朋友们：
 
 - [盛傲飞（aofei）](https://github.com/aofei)
 - [石太彬（shitaibin）](https://github.com/shitaibin)
