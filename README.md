@@ -100,6 +100,7 @@
 
 ## 版权声明
 
+本图书所有文章采用 [知识署名-非商业性使用-禁止演绎 4.0 国际](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行许可。
 
 ## 致谢
 
