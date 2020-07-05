@@ -7,7 +7,6 @@
 ![image](https://image.eddycjy.com/04737f7b3e5567224fd2bc93f352203d.jpeg)
 
 - 作者：陈剑煜（煎鱼），GitHub：[@eddycjy](https://github.com/eddycjy)，微信公众号：脑子进煎鱼了。
-
 - 作者：徐新华（polaris），GitHub：[@polaris](https://github.com/polaris1119)，微信公众号：Go语言中文网。
 
 ## 本书内容
