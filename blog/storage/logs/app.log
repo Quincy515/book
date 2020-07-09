@@ -1,0 +1,9 @@
+2020/07/09 13:36:49 {"callers":["/Users/tianxiaoqiang/Custer/GitHub/Study/book/blog/main.go: 26 main.init.0"],"level":"info","message":"%s: go-programming-tour-book/ %scusterblog-service","time":1594273009576728000}
+2020/07/09 13:37:48 {"callers":["/Users/tianxiaoqiang/Custer/GitHub/Study/book/blog/main.go: 26 main.init.0"],"level":"info","message":"custer: go-programming-tour-book/ blog-service","time":1594273068513603000}
+2020/07/09 13:54:57 {"callers":["/Users/tianxiaoqiang/Custer/GitHub/Study/book/blog/main.go: 26 main.init.0"],"level":"info","message":"custer: go-programming-tour-book/ blog-service","time":1594274097134761000}
+2020/07/09 15:28:05 {"callers":["/Users/tianxiaoqiang/Custer/GitHub/Study/book/blog/main.go: 26 main.init.0"],"level":"info","message":"custer: go-programming-tour-book/ blog-service","time":1594279685149111000}
+2020/07/09 15:30:51 {"callers":["/Users/tianxiaoqiang/Custer/GitHub/Study/book/blog/main.go: 26 main.init.0"],"level":"info","message":"custer: go-programming-tour-book/ blog-service","time":1594279851027569000}
+2020/07/09 15:40:12 {"callers":["/Users/tianxiaoqiang/Custer/GitHub/Study/book/blog/main.go: 26 main.init.0"],"level":"info","message":"custer: go-programming-tour-book/ blog-service","time":1594280412554092000}
+2020/07/09 16:51:02 {"callers":["/Users/tianxiaoqiang/Custer/GitHub/Study/book/blog/main.go: 26 main.init.0"],"level":"info","message":"custer: go-programming-tour-book/ blog-service","time":1594284662189821000}
+2020/07/09 19:19:35 {"callers":["/Users/tianxiaoqiang/Custer/GitHub/Study/book/blog/main.go: 26 main.init.0"],"level":"info","message":"custer: go-programming-tour-book/ blog-service","time":1594293575898596000}
+2020/07/09 19:19:40 {"callers":["/Users/tianxiaoqiang/Custer/GitHub/Study/book/blog/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1594293580309228000}
